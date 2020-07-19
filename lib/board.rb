@@ -1,3 +1,5 @@
 # Define the variable board below.
-row = [" "," "," "]
-row1 = "X"
+row1 = ["","",""]
+row2 = ["","",""]
+row3 = ["","",""]
+row2[1] = "X"
